@@ -17,9 +17,7 @@ This project demonstrates **RS-485 communication** using the **MAX485 transceive
 - [Features](#-features)  
 - [Hardware Requirements](#-hardware-requirements)  
 - [Installation](#-installation)  
-- [Usage](#-usage)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
+
 
 ## 🔧 Hardware Requirements
 
